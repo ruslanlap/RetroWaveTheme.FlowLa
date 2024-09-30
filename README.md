@@ -18,7 +18,7 @@
 
 <h3 align="center">RetroWave</h3>
 
-![RetroWave](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/dataimg/RetroWave.png)
+![RetroWave](ruslanlap/RetroWaveTheme.FlowLa/dataimg/RetroWavex1.jpg)
 
 <h3 align="center">RetroWave1984</h3>
 
