@@ -1,100 +1,110 @@
-# RetroWave & RetroWave1984
+# 🌴🌆 RetroWave & RetroWave1984 Themes for Flow Launcher 🚀🕹️
 
-#### **RetroWave** - is a NEON theme for Flow Launcher with vibrant retro colors.
+### Neon-infused themes for [Flow Launcher](https://www.flowlauncher.com/) with vibrant retro colors! 🎨✨
 
-# Features
+## 🔗 Quick Links
 
-<h3>
+| Resource | Link |
+|----------|------|
+| Flow Launcher | [Official Website](https://www.flowlauncher.com/) |
+| RetroWave Theme | [Raw File](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/RetroWave.xaml) |
+| RetroWave1984 Theme | [Raw File](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/RetroWave1984.xaml) |
+| GitHub Repository | [RetroWaveTheme.FlowLa](https://github.com/ruslanlap/RetroWaveTheme.FlowLa) |
+| Issues | [Report a Bug](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/issues) |
+| License | [View License](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/LICENSE) |
 
-- Dark background with neon accents
+## 🌟 Features
 
-- Bright 80s-style colors
+- 🌑 Dark background with neon accents
+- 🎨 Bright 80s-style colors
+- 🖥️ Futuristic interface design
 
-- Futuristic interface design
+## 🖼️ Theme Previews
 
-</h3>
-
-# Theme Preview
-
-<h3 align="center">RetroWave</h3>
+### 🌅 RetroWave
 
 ![RetroWave](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/RetroWave.png)
 
-<h3 align="center">RetroWave1984</h3>
+### 🌃 RetroWave1984
 
 ![RetroWave1984](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/RetroWave1984.png)
 
+## 💾 Installation
 
+### 🖥️ Use bash or PowerShell terminals
 
----
-
-# Installation
-
-### Use bash or PowerShell terminals
-
-```Shell
+```shell
 cd ~/AppData/Roaming/FlowLauncher/Themes
 
 # If you are using Flow Launcher Portable 1.19.0
 # If not, replace [1.19.0] with your version
-
 cd ~/AppData/Local/FlowLauncher/app-1.19.0/UserData/Themes
 ```
 
-## Raw file Download the theme file
+### 📥 Download the theme files
 
-#### Go to [RetroWave.xaml](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/RetroWave.xaml). Once you are viewing the file content, click **Raw** in the top right corner and Ctrl+S to save the theme (or use the "Download raw file" button or use the “Copy raw content” option).
+#### 🔗 Raw file download
 
-## With curl
+1. Go to [RetroWave.xaml](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/RetroWave.xaml) or [RetroWave1984.xaml](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/RetroWave1984.xaml)
+2. Click **Raw** in the top right corner
+3. Use Ctrl+S to save the theme (or use the "Download raw file" button or "Copy raw content" option)
 
-### If you are using the built-in `curl` in PowerShell, which is an alias for `Invoke-WebRequest`:
+#### 🐚 With curl
+
+For PowerShell's built-in `curl` (alias for `Invoke-WebRequest`):
 
 ```shell
+# RetroWave
 curl -Uri "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave.xaml" -OutFile "RetroWave.xaml"
-```
-RetroWave1984
-```shell
-curl -Uri "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave1984.xaml" -OutFile "RetroWave.xaml"
+
+# RetroWave1984
+curl -Uri "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave1984.xaml" -OutFile "RetroWave1984.xaml"
 ```
 
-### If you are using the standalone `curl`, which can be installed via Chocolatey or Scoop:
+For standalone `curl` (installable via Chocolatey or Scoop):
 
 ```shell
+# RetroWave
 curl -L -o "RetroWave.xaml" "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave.xaml"
-```
-RetroWave1984
-```shell
-curl -L -o "RetroWave.xaml" "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave1984.xaml"
-```
-## With wget
 
-```Shell
-wget -O RetroWave.xaml https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave.xaml
+# RetroWave1984
+curl -L -o "RetroWave1984.xaml" "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave1984.xaml"
 ```
-RetroWave1984
-```Shell
+
+#### 📡 With wget
+
+```shell
+# RetroWave
+wget -O RetroWave.xaml https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave.xaml
+
+# RetroWave1984
 wget -O RetroWave1984.xaml https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave1984.xaml
 ```
-## With git clone
 
-```Shell
+#### 📂 With git clone
+
+```shell
 git clone https://github.com/ruslanlap/RetroWaveTheme.FlowLa.git
 ```
 
-### Go to Flow Launcher Settings > Theme and select **RetroWave** as your theme.
+### 🎨 Apply the theme
 
----
+Go to Flow Launcher Settings > Theme and select **RetroWave** or **RetroWave1984** as your theme.
 
-### Add the theme reference in your App.xaml or main application window:
+## 🖥️ For Developers
+
+Add the theme reference in your App.xaml or main application window:
 
 ```xml
 <Application.Resources>
     <ResourceDictionary>
         <ResourceDictionary.MergedDictionaries>
             <ResourceDictionary Source="pack://application:,,,/Themes/RetroWave.xaml"/>
+            <!-- Or -->
+            <ResourceDictionary Source="pack://application:,,,/Themes/RetroWave1984.xaml"/>
         </ResourceDictionary.MergedDictionaries>
     </ResourceDictionary>
 </Application.Resources>
 ```
 
-Dive into the world of retro-futurism with RetroWave!
+🚀 Dive into the world of retro-futurism with RetroWave and RetroWave1984! 🌆🕹️
