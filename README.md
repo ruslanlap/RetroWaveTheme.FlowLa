@@ -50,21 +50,31 @@ cd ~/AppData/Local/FlowLauncher/app-1.19.0/UserData/Themes
 ### If you are using the built-in `curl` in PowerShell, which is an alias for `Invoke-WebRequest`:
 
 ```shell
-curl -Uri "https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/main/RetroWave.xaml" -OutFile "RetroWave.xaml"
+curl -Uri "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave.xaml" -OutFile "RetroWave.xaml"
+```
+RetroWave1984
+```shell
+curl -Uri "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave1984.xaml" -OutFile "RetroWave.xaml"
 ```
 
 ### If you are using the standalone `curl`, which can be installed via Chocolatey or Scoop:
 
 ```shell
-curl -L -o "RetroWave.xaml" "https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/main/RetroWave.xaml"
+curl -L -o "RetroWave.xaml" "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave.xaml"
 ```
-
+RetroWave1984
+```shell
+curl -L -o "RetroWave.xaml" "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave1984.xaml"
+```
 ## With wget
 
 ```Shell
-wget "https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/main/RetroWave.xaml"
+wget "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave.xaml"
 ```
-
+RetroWave1984
+```Shell
+wget "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/RetroWave1984.xaml"
+```
 ## With git clone
 
 ```Shell
