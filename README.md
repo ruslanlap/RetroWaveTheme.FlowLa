@@ -70,12 +70,10 @@ curl -L -o "RetroWave.xaml" "https://github.com/ruslanlap/RetroWaveTheme.FlowLa/
 
 ```Shell
 wget -O RetroWave.xaml https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave.xaml
-"
 ```
 RetroWave1984
 ```Shell
 wget -O RetroWave1984.xaml https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave1984.xaml
-"
 ```
 ## With git clone
 
