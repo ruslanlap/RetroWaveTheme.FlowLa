@@ -22,7 +22,7 @@
 
 <h3 align="center">RetroWave1984</h3>
 
-![RetroWave1984](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/RetroWave.png)
+![RetroWave1984](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/RetroWave1984.png)
 
 
 
