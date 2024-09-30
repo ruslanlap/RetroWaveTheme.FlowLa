@@ -43,7 +43,7 @@ cd ~/AppData/Local/FlowLauncher/app-1.19.0/UserData/Themes
 
 ## Raw file Download the theme file
 
-#### Go to [RetroWave.xaml](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/main/RetroWave.xaml). Once you are viewing the file content, click **Raw** in the top right corner and Ctrl+S to save the theme (or use the "Download raw file" button or use the “Copy raw content” option).
+#### Go to [RetroWave.xaml](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/RetroWave.xaml). Once you are viewing the file content, click **Raw** in the top right corner and Ctrl+S to save the theme (or use the "Download raw file" button or use the “Copy raw content” option).
 
 ## With curl
 
