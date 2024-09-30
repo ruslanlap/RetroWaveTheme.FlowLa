@@ -18,11 +18,11 @@
 
 <h3 align="center">RetroWave</h3>
 
-![RetroWave](ruslanlap/RetroWaveTheme.FlowLa/dataimg/RetroWavex1.jpg)
+![RetroWave](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/RetroWavex1.jpg)
 
 <h3 align="center">RetroWave1984</h3>
 
-![RetroWave1984](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/dataimg/RetroWave1984.png)
+![RetroWave1984](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/RetroWave.png)
 
 
 
