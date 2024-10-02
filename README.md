@@ -32,7 +32,12 @@
 ## 💾 Installation
 
 ### 🖥️ Use bash or PowerShell terminals
+one linecommand 
+```shell
+curl -Uri "https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/scripts/install_retro_wave.ps1" -OutFile "install_retro_wave.ps1"
+powershell -ExecutionPolicy Bypass -File .\install_retro_wave.ps1
 
+```
 ```shell
 cd ~/AppData/Roaming/FlowLauncher/Themes
 
