@@ -9,6 +9,7 @@
 | Flow Launcher | [Official Website](https://www.flowlauncher.com/) |
 | RetroWave Theme | [Raw File](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/RetroWave.xaml) |
 | RetroWave1984 Theme | [Raw File](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/RetroWave1984.xaml) |
+| Palenight Theme | [Raw File](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/refs/heads/master/Palenight.xaml) |
 | GitHub Repository | [RetroWaveTheme.FlowLa](https://github.com/ruslanlap/RetroWaveTheme.FlowLa) |
 | Issues | [Report a Bug](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/issues) |
 | License | [View License](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/LICENSE) |
