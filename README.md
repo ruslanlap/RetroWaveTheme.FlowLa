@@ -34,10 +34,25 @@ RetroWave and RetroWave1984 themes offer a unique, retro-futuristic aesthetic fo
 - 🔄 Easy installation and application
 - 🧩 Compatible with Flow Launcher's functionality
 
-## 🛠️ Installation: Journey to the Retro Future
-
-<div align="center">
-  <img src="https://github.com/ruslanlap/RetroWaveTheme.FlowLa/raw/master/dataimg/synthwave-banner.gif" alt="Synthwave Banner" width="100%">
+    <!-- Mountains -->
+    <polygon points="0,400 300,200 500,300 800,150 800,400" fill="#1E0033" />
+    
+    <!-- RetroWave Text -->
+    <text x="400" y="150" font-family="Arial, sans-serif" font-size="60" fill="url(#neonGlow)" text-anchor="middle">
+      RetroWave
+      <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
+    </text>
+    
+    <!-- Palm Trees -->
+    <g transform="translate(100, 250) scale(0.5)">
+      <path d="M0,0 Q30,-50 60,0 Q30,-40 0,0 Z" fill="#1E0033" />
+      <rect x="25" y="0" width="10" height="100" fill="#1E0033" />
+    </g>
+    <g transform="translate(650, 200) scale(0.7)">
+      <path d="M0,0 Q30,-50 60,0 Q30,-40 0,0 Z" fill="#1E0033" />
+      <rect x="25" y="0" width="10" height="100" fill="#1E0033" />
+    </g>
+  </svg>
 </div>
 
 Welcome, time traveler! 🕰️ Are you ready to transform your Flow Launcher into a portal to the 80s? Follow our neon-lit path to installation success!
