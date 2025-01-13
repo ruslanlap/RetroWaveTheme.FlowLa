@@ -144,6 +144,7 @@ This project is licensed under the [MIT License](https://github.com/ruslanlap/Re
 | 🌊 RetroWave Theme | Raw XAML File | [🔗 View](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave.xaml) |
 | 🌆 RetroWave1984 Theme | Raw XAML File | [🔗 View](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave1984.xaml) |
 | 🌙 Palenight Theme | Raw XAML File | [🔗 View](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/Palenight.xaml) |
+| 🦇 TrueDracula Theme | Raw XAML File | [🔗 View](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/TrueDracula.xaml) |
 | 📁 GitHub Repository | Source Code | [🔗 Explore](https://github.com/ruslanlap/RetroWaveTheme.FlowLa) |
 | 🐛 Issue Tracker | Report Bugs | [🔗 Report](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/issues) |
 | 📄 License | MIT License | [🔗 Read](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/LICENSE) |
