@@ -138,18 +138,19 @@ This project is licensed under the [MIT License](https://github.com/ruslanlap/Re
 
 ## 🔗 Additional Resources
 
-| Resource | Description | Link |
-|----------|-------------|------|
-| 🚀 Flow Launcher | Official Website | [🔗 Visit](https://www.flowlauncher.com/) |
-| 🌊 RetroWave Theme | Raw XAML File | [🔗 View](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave.xaml) |
-| 🌆 RetroWave1984 Theme | Raw XAML File | [🔗 View](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave1984.xaml) |
-| 🌙 Palenight Theme | Raw XAML File | [🔗 View](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/Palenight.xaml) |
-| 🦇 TrueDracula Theme | Raw XAML File | [🔗 View](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/TrueDracula.xaml) |
-| 📁 GitHub Repository | Source Code | [🔗 Explore](https://github.com/ruslanlap/RetroWaveTheme.FlowLa) |
-| 🐛 Issue Tracker | Report Bugs | [🔗 Report](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/issues) |
-| 📄 License | MIT License | [🔗 Read](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/LICENSE) |
+| Resource             | Description          | Link                                                                                                                                                     |
+|----------------------|----------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🚀 Flow Launcher     | Official Website    | [🔗 Visit](https://www.flowlauncher.com/)                                                                                                                |
+| 🌊 RetroWave Theme   | Raw XAML File       | [🔗 Download](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave.xaml?raw=true)                                          |
+| 🌆 RetroWave1984 Theme | Raw XAML File    | [🔗 Download](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/RetroWave1984.xaml?raw=true)                                      |
+| 🌙 Palenight Theme   | Raw XAML File       | [🔗 Download](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/Palenight.xaml?raw=true)                                          |
+| 🦇 TrueDracula Theme | Raw XAML File       | [🔗 Download](https://raw.githubusercontent.com/ruslanlap/RetroWaveTheme.FlowLa/master/TrueDracula.xaml?raw=true)                                        |
+| 📁 GitHub Repository | Source Code         | [🔗 Explore](https://github.com/ruslanlap/RetroWaveTheme.FlowLa)                                                                                        |
+| 🐛 Issue Tracker     | Report Bugs         | [🔗 Report](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/issues)                                                                                   |
+| 📄 License           | MIT License         | [🔗 Read](https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/LICENSE)                                                                        |
 
 ## 🤝 Contributing
+
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
