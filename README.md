@@ -18,6 +18,15 @@ Get ready to travel back in time with these electrifying themes!
   <img src="https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/RetroWave1984.png" alt="RetroWave1984 Theme" width="600">
 </p>
 
+### 🌃 TrueDracula
+
+<p align="center">
+  <img src="https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/TrueDracula1.png" alt="RetroWave1984 Theme" width="600">
+</p>
+<p align="center">
+  <img src="https://github.com/ruslanlap/RetroWaveTheme.FlowLa/blob/master/dataimg/TrueDracula2.png" alt="RetroWave1984 Theme" width="600">
+</p>
+
 ## 🔍 Problem Statement
 
 Many users find default launcher themes bland and uninspiring. There's a need for visually striking, customizable themes that enhance the user experience without compromising functionality.
